@@ -5,7 +5,7 @@
 
 This project focuses on the development of **ConcertSaver**, a mobile application designed to provide users with discounted concert tickets. The system aims to simplify the process of finding and purchasing concert tickets at reduced prices, making concerts more accessible and affordable for a wide range of users.
 
-This report was created in collaboration with my teammate, **Charlotte Isabel Busse Mejia**.
+This project was created in collaboration with my teammate, **Charlotte Isabel Busse Mejia**.
 
 ## Objective
 
