@@ -28,11 +28,11 @@ The primary objectives of this project are to:
 
 ### Project Ideation
 
-- Conceptualized the idea of ConcertSaver and outlined the core features and functionalities.
+- Conceptualized the idea of ConcertSaver and outlined the core features and functionalities with **Charlotte Isabel Busse Mejia**.
 
 ### Database Schema Design
 
-- Designed the database schema to efficiently manage and organize concert-related data.
+- Designed the database schema to efficiently manage and organize concert-related data with  **Charlotte Isabel Busse Mejia**.
 
 ### PPT Creation
 
