@@ -60,7 +60,7 @@ The primary objectives of this project are to:
 
 - `DBConcertSaver_Group4 08032024.sql`: Database schema and initial data.
 - `SQL Queries_Group4 08032024.sql` : Queries.
-- `Mockup Design and Presentation`: Project presentation slides.
+- `SQL project_ConcertSaver_Group4.pdf`: Mockup Design and Presentation.
 
 ---
 
