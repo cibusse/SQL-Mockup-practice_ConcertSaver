@@ -66,7 +66,7 @@ The primary objectives of this project are to:
 ### Achievement
 We are proud to share that this project received a perfect score of **30/30** as part of the **Project Instructions & Delivery** assignment submitted on **March 8, 2024**.  
 
-![Perfect Score Screenshot](relative/path/to/screenshot.png)
+![Score Screenshot](relative/path/to/screenshot.png)
 
 
 ---
