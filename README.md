@@ -65,7 +65,7 @@ The primary objectives of this project are to:
 
 ---
 
-This report is the final project for the **Information Management and Databases** course at Laurea University of Applied Sciences.
+This report is the final project for the **Information Management and Databases** course at Laurea University of Applied Sciences in Finland.
 
 Thank you for exploring our project! Feel free to reach out for collaboration or questions.
 
