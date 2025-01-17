@@ -63,6 +63,12 @@ The primary objectives of this project are to:
 - `SQL Queries_Group4 08032024.sql` : Queries.
 - `SQL project_ConcertSaver_Group4.pdf`: Mockup Design and Presentation.
 
+### Achievement
+We are proud to share that this project received a perfect score of **30/30** as part of the **Project Instructions & Delivery** assignment submitted on **March 8, 2024**.  
+
+![Perfect Score Screenshot](relative/path/to/screenshot.png)
+
+
 ---
 
 This report is the final project for the **Information Management and Databases** course at Laurea University of Applied Sciences in Finland.
