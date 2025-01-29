@@ -5,8 +5,7 @@
 
 This project focuses on the development of **ConcertSaver**, a mobile application designed to provide users with discounted concert tickets. The system aims to simplify the process of finding and purchasing concert tickets at reduced prices, making concerts more accessible and affordable for a wide range of users.
 
-This project was created in collaboration with my teammate, **Charlotte Isabel Busse Mejia**. 
-Charlotte  was responsible for the planning and developing of the SQL database.
+This project was created in collaboration with my teammate, **Chien Chuan Huang**. 
 
 ## Objective
 
@@ -29,7 +28,7 @@ The primary objectives of this project are to:
 
 ### Project Ideation
 
-- Conceptualized the idea of ConcertSaver and outlined the core features and functionalities with **Charlotte**.
+- Conceptualized the idea of ConcertSaver and outlined the core features and functionalities with *Chien Chuan**.
 
 ### Database Schema Design
 
